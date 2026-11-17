@@ -26,7 +26,6 @@
 | [BarberPro](https://github.com/Dated-cpu/barberpro) | Full-stack booking SaaS: слоты, outbox, BullMQ, R3F | Next.js 15, tRPC, Prisma, Redis |
 | [AI Request Desk](https://dated-cpu.github.io/portfolio/#projects) | Заявки из Telegram: AI-триаж, SLA, PostgreSQL | n8n, Telegram, OpenRouter, SQL |
 | [AI-ассистент](https://t.me/danil_agent_ai_bot) | Мультимодальный бот: текст, голос, фото, /image | n8n, OpenRouter, Gemini, qwen |
-| [Digital Love Experience](https://github.com/Dated-cpu/love-experience) | Кинематографичный сайт-подарок с 3D-галереей | Next.js, TypeScript, Motion |
 | [NostalgiaOS](https://github.com/Dated-cpu/old-game) | Ретро-десктоп в браузере: Snake, Minesweeper, CRT | React 19, Vite, Tailwind |
 
 > Коммерческие проекты: live-версии открыты, код приватный по договорённости.
